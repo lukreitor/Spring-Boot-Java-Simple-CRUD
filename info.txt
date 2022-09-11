@@ -1,0 +1,8 @@
+MODEL 
+    Regras de negócio, entidades, camada de acesso a dados, validacao
+
+VIEW 
+    Interface com o usuário, apresentação de dados, renderizar como resposta javascript, css, html, tamplate engine 
+
+CONTROLLER
+    Recebe requisição, chama a camada de negócio, retorna a resposta para a view
